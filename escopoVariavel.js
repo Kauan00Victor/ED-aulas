@@ -17,3 +17,5 @@ console.log(myFunction()) ;//2;
 console.log('myOtherVariable: ' + myOtherVariable);
 console.log(myOtherFunction());
 console.log(myOtherVariable);
+
+
